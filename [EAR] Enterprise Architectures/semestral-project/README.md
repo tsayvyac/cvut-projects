@@ -10,7 +10,7 @@ The project is aimed at larger companies with a large number of employees or com
 **Meeting Room Reservation System** allows to manage and reserve meeting rooms in offices. It will also support room prioritization, meaning that some rooms can be booked when others are already occupied at a given time, or a staff member with a higher priority than others will be able to book them. This priority can be set in the system. It will also display the attributes of each room, such as maximum capacity and available equipment. Mainly this system will be for corporations that have a large number of employees to organize the work in the office. The output of this project will be a Browser-based Meeting Room Reservation System.
 
 ## ER diagram: 
-![ER diagram of database](/diagrams/er.png "ER diagram of database")
+![ER diagram of database](./diagrams/er.png "ER diagram of database")
 
 ## User class and characteristics
 Roles in system: admin, employee.
