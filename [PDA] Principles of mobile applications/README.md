@@ -1,0 +1,2 @@
+# **SYNOPSIS OF SUBJECT PDA**
+Student who successfully passed the course get overview about properties and about limits of single mobile technologies. The course is focused on specific problems related to limitations and new capabilities of mobile devices. Attention is paid to maximal utilization of environment characteristics in which the mobile application is used. Course is not focused on introduction of basic programming techniques for mobile application development - it is expected that students already have this skills or will be gained by means of self-study.
