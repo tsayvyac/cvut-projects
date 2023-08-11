@@ -12,7 +12,7 @@ We used the DAO design pattern for robust and efficient data manipulation.
 
 ![Database diagram](documentation/dbdig.png)
 
-## More information in [documentation]()
+## More information in [documentation](https://github.com/tsayvyac/cvut-projects/blob/master/%5BPDA%5D%20Principles%20of%20mobile%20applications/semestral-project/documentation/D2.pdf)
 
 ## Used libraries:
 - Android Jetpack Compose
